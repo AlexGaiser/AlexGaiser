@@ -2,7 +2,7 @@
 
 ## Bio:
 
-Hello there! I am a software engineer and returned Peace Corps volunteer who loves building things and managing projects. I am passionate about open source and always eager to meet new people and talk tech. If you are reading this, feel free to check out my repositories. If you are interested in chatting or learning more about what I do, hit me up on [linkedIn](https://www.linkedin.com/in/alexander-gaiser/) and say hi! 
+Hello there! I am a software engineer and returned Peace Corps volunteer who loves building things and managing projects. I am passionate about open source and always eager to meet new people and talk tech. If you are reading this, feel free to check out my open source projects and tutorials. If you are interested in chatting or learning more about what I do, hit me up on [linkedIn](https://www.linkedin.com/in/alexander-gaiser/) and say hi! 
 
 
 ## Open Source Projects

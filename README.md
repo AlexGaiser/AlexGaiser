@@ -13,10 +13,11 @@ I maintain a few Open Source repositories that are looking for contributors, inc
 - [simplemkfile](https://github.com/AlexGaiser/addfiles-cli) | looking for contributors
 - [ts-datetime](https://github.com/AlexGaiser/ts-datetime) | just starting out
 
-## Tutorials
+## Tutorials/Deep Dives
 
 I also have several repositories that serve as tutorials and/or examples for anyone who wants to learn more about the subject in question. If you are interested in learning about any the following topics please check out the repositories or feel free to message me directly!
 
+- [Writing an HTTP Request Library from Scratch](https://github.com/AlexGaiser/http_lib/blob/master/ReadMe.md)
 - [Publishing A Typescript Project to NPM](https://github.com/AlexGaiser/publish-to-npm/blob/main/README.md)
 - [Typescript Introduction](https://github.com/AlexGaiser/typescript-for-fun-and-profit-slides)
 - [Using Typescript with ES2020](https://github.com/AlexGaiser/ES2020-Typescript)

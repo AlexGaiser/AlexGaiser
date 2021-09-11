@@ -22,6 +22,7 @@ I maintain a few Open Source repositories that are looking for contributors, inc
 
 - [freepi](https://github.com/AlexGaiser/freepi) | looking for contributors
 - [fast-react](https://github.com/AlexGaiser/fast-react) | in progress, looking for contributors
+- [source-manager-md](https://github.com/AlexGaiser/source-manager-ts) | in progress looking for contributors
 - [simplemkfile](https://github.com/AlexGaiser/addfiles-cli) | looking for contributors
 - [ts-datetime](https://github.com/AlexGaiser/ts-datetime) | just starting out
 

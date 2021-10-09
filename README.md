@@ -27,7 +27,6 @@ I maintain a few Open Source repositories that are looking for contributors, inc
 - [ts-datetime](https://github.com/AlexGaiser/ts-datetime) | just starting out
 
 ## Github stats
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexGaiser&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
